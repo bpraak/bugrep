@@ -58,7 +58,7 @@ BugRep makes your life easier by providing a platform for tracking bugs easily.
 1. Start the backend server:
 
     ```
-    python mange.py runserver
+    python manage.py runserver
     ```
 
 1. Go to folder 'frontend' and Install packages using this command:
